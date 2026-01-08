@@ -1,3 +1,5 @@
+import kaplay from "https://unpkg.com/kaplay@3001.0.19/dist/kaplay.mjs";
+
 const FLOOR_HEIGHT = 48;
 const JUMP_FORCE = 800;
 const SPEED = 480;
